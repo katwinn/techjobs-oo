@@ -32,6 +32,9 @@ public class Job {
 
     }
 
+    public static void findById(Object o) {
+    }
+
     public String getName() {
         return name;
     }
